@@ -1,0 +1,29 @@
+body{
+    background: rgb(121, 121, 92);
+}
+.container{
+    text-align: center;
+}
+
+.p{
+    font-size: 1.2rem;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(13, 26, 7);
+    color: white;
+    font-size: 2rem;
+    position: relative;
+}
+
+.nav-links{
+    justify-content: space-around;
+    color:white;
+    display: flex;
+    list-style: none;
+
+    
+}
